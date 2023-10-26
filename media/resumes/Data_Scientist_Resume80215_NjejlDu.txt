@@ -1,0 +1,56 @@
+Data Engineer| Data Analyst | Data Scientist Resume
+
+
+Desired Industry: Science/Research
+SpiderID: 80215
+
+
+Desired Job Location: Washington, District of Columbia
+Date Posted: 11/22/2017
+
+
+Type of Position: Full-Time Permanent
+Availability Date: 
+
+
+Desired Wage: 90000
+
+
+
+
+U.S. Work Authorization: Yes
+
+
+Job Level: Experienced with over 2 years experience
+Willing to Travel: Yes, 50-75%
+
+
+Highest Degree Attained: Masters
+Willing to Relocate: Yes
+
+
+
+
+Objective:Analytical and results-oriented professional, offering broad-based experience in interpreting data to drive business solutions, implementing new processes, providing technical assistance, and ensuring end user satisfaction. An expert in continuous process improvements; adept at performing initial analysis to assess the quality of data.Outstanding leader and team builder with commitment and track record of motivating, guiding, and leading high-caliber global teams of professionals.Articulate communicator; armed with excellent communication skills, combined with strong interpersonal, leadership, critical thinking, and problem-solving aptitudes; bilingual in English and Hindi, along with working knowledge of French.
+
+
+Experience:The George Washington University ▪ Washington, D.C., USA Laboratory Technician, Science and Engineering	Oct 2017–PresentHold responsibility in troubleshooting end user problems regarding workstations, operating system, software and hardware, and network connectivity.Aid faculty, staff, and student in organizing computer equipment.Collaboratively work with senior laboratory technicians to address major technical issues. LGT Capital Partners PVT Ltd ▪ New York, NY, USAPrivate Equity Intern	May 2017–Aug 2017Created algorithm for automated prediction and classification of investment data using R.Reviewed historical investment performance of the companies while developing track records in Excel.Executed predictive data analysis for company investment through machine learning algorithms using R and Python.Arranged company database for previous investments from 2014 to 2017.The George Washington University ▪ Washington, D.C., USAData Quality Intern	Jan 2017–May 2017Functioned as user interface developer for data governance software, Collibra. Manage the data queries and backend problem solving for the college data website.Updated their website using JavaScript and made it more user-friendly.Handled mobile application development and data management. Developed an outline for the mobile application and started implementation of the design.Assisted the professor in handling the class presentations, assignments and projects regarding the subject data warehousing. BSDC ▪ India, IndiaData Analyst and Software Developer	Jul 2015– Jul 2016Confirmed and monitored the scope of company growth while analyzing data from different companies.Managed quality control analysis software.Maintained the track records of the company and analyzed them using excel while designing a data warehouse using the ETL process and SQL for database connection. 
+
+
+Education:Master’s Degree in Data Science: In Progress, Expected Graduation Date: 2018The George Washington University | Washington, D.C., USAGPA: 3.88/4Treasurer, Data and Social Good Student Organization | Treasurer, GW Desis (GW Graduate Indian Community)Relevant Coursework: Introduction to Data Science, Data Warehousing, Data MiningMachine Learning, Data Visualization, HPC, Deep Learning, Time Series Analysis, Survival AnalysisBachelor’s Degree in Computer Science and TechnologyManipal University | Jaipur, RJ, IndiaGPA: 3.93/4Member, Editorial Board 2012-2013 | Head Organizer, Fest–2011 | Member, Green Club Manipal University Jaipur
+
+
+Skills:Data Analysis| Data visualization | Statistical Data Analysis | Machine Learning | Cloud ComputingData Mining | Database Administration | Regression and Survival Analysis | Neural Network
+
+
+Additional Information:CertificationsCloud Computing Certification by EMC2  Introduction to R Certification ActivitiesFirst Position, International Women's Day Poster  Volunteer with NGO Gramiksha, Welfare of Children in RajasthanHead Incoming, IASTE– Manipal University Jaipur Academic Projects Cancer Patients’ Segmentation 	2017Separated cancer proteins with two unsupervised cluster algorithms including K-means and Self Organized Maps (SOM).Arranged proteins into five categories and subdivided each segment to prove SOM.Impact of Technology on Jobs	2016Collected data from Kaggle, World Bank, and International Monetary Fund (IMF) websites, while carrying out data engineering.Examined data using regression analysis and analysis of variance (ANOVA).Hit A Teddy (Windows 8/Phone Game) – Published by VAMAPP DevelopersLead Developer	2015Created a game for Windows 8.1 and Windows Phone 8 using NET 4.5 in Windows Runtime. Technical AcumenLanguages R, MatLab, Python, JAVA, JavaScript, C, C++, SQL, PHP, HTML, CSSOperating SystemsLinux, Unix, Mac OS, Windows  ToolsMicrosoft Office Suite (Word, Excel, and PowerPoint), Tableau, Talend, STATA, Data Analysis, Photoshop, SASDatabasesPostgres, MySQL, Oracle
+
+Candidate Contact Information:
+
+
+JobSpider.com has chosen not to make contact information available on this page.Click "Contact Candidate" to send this candidate a response.
+
+
+
+
+

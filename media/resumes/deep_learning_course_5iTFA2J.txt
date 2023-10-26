@@ -1,0 +1,9 @@
+data normalization or standarization techninques : is to put you data in a specific ormat to be the input of ur model
+
+fist model you can build with keras is : 
+sequential model : linear stack of layers 
+the input data is the input layer (1st layer) but we do not define it using keras
+we define the hidden layers -> the first hidden layer is actually the second layer of the model
+units = nodes = neurons
+last hidden layer = output layer that has units=nbr of classes
+model.compile prepares the model for training

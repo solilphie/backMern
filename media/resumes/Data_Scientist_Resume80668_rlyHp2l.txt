@@ -1,0 +1,56 @@
+Data Scientist Resume
+
+
+Desired Industry: Information Technology
+SpiderID: 80668
+
+
+Desired Job Location: Wixom, Michigan
+Date Posted: 2/22/2018
+
+
+Type of Position: Full-Time Permanent
+Availability Date: 
+
+
+Desired Wage: 70000
+
+
+
+
+U.S. Work Authorization: Yes
+
+
+Job Level: Management (Manager, Director)
+Willing to Travel: Yes, 50-75%
+
+
+Highest Degree Attained: Doctoral
+Willing to Relocate: Yes
+
+
+
+
+Objective:Performance-focused and analytical professional, offering hands-on experience in data analysis and visualization, predictive modeling and optimization. Armed with expertise in using analytics to derive value, establish analytics culture. Proficient at resolving time series data-related problems; as well as providing innovative solutions to arising conflicts. Knowledgeable of various machine learning algorithms, such as Regressions, Decision Trees, Gradient Boosting, Random Forest, k-NN, SVM, Naïve Bayes, Clustering. Known as an effective team player and a self-motivated individual. Articulate communicator; bilingual in English and Mandarin Chinese. Permanent Resident of United States (Green Card Holder).
+
+
+Experience:China International Electronic Commerce CenterSenior Research Scientist	2014–2016Served as a senior member of the Agricultural Products Team in Market Research Department, in charge of conducting advanced analytics leveraging time series analysis, reports generation and data visualizations to provide in-depth business intelligence and market analysis for MOFCOM periodicallyRigorously projected prices of commodities on a regular basis with predictive models, such as ARIMA, ECM, VAR, VEC, GARCH; as well as liaised with subject matter expert to understand the root causes of changes in prices Facilitated research on the barriers and drivers of the e-commerce of agricultural products in China (from several aspects: policy support, types (B2C, B2B, C2C, O2O), cold-chain logistics, online payments, mobile commerce and customer demands) by investigating the development of the major e-commerce platforms and logistics enterprises to help reduce inventory, lower transaction cost and increase business opportunitiesLed efforts in forecasting CPI inflation through the following:Discovery of integrated 48 indicators of CPI and selection of 13 leading predictors by utilizing X-12-ARIMA seasonal adjustment, cross correlation functions, granger causality, impulse response and variance decomposit-ion to determine the leading period, and do data differencing and transformation as preparation for modelingFormulation of: 1) Combined approach of PCA and ECM based on other predictors; 2) Seasonal ARIMA model based solely on past CPI data; 3) VAR model based on dynamic influence analysis, on the results of stationarity test, ACF-PACF and co-integration test of the processed data to forecast one-month-ahead CPI inflationCompiled retail prices index for food (RPI-F) through processing of monitored data of 36 major cities in China, computation of the weight of categories and sub-categories, and adoption of the weighted arithmetic mean approach; as well as by maintaining the RPI-F for 6 months to test validity before publicationActively created the mind maps of the various machine learning algorithms and corresponding tuning parameters for The Integrated Big Data System to facilitate knowledge transfer and retentionInteracted with Big Data Team to put approved models and business requirements into production; kept track of technical details of model development and implementation; and monitored existing models for accuracy and stabilityTsinghua University, Beijing, ChinaPostdoctoral Fellow	2015–2017Recognized as a principal investigator for executing the “Evaluating e-marketing efficiency using two-stage AHP-IDEA technique with uncertainty” Project sponsored by the China Postdoctoral Science FoundationTroubleshot and customized analytical and optimization methods to respond to inefficiency problems and data perturbations of e-commerce enterprises, such as improving efficiency of DMUs by using ideal points and performing sensitivity analysis and stability radius within which the efficiency classification keep unchangedEffectively managed resources to complete research plan; wrote academic publications and concluding reportsSuccessfully organized a series of research seminars regularly that build interaction and collaborationTeaching ExperienceUniversity of Science and Technology Beijing, ChinaGraduate Assistant – Donlinks School of Economics and Management	2011–2013Guided students with their graduation thesis and collaboratively worked with professor on research projectsAssisted supervisor with literature review, data collection and processing, and paper preparation with LaTeXMeticulously helped faculty in teaching undergraduate level courses; planning teaching materials; preparing testsUndergraduate Teaching Assistant – School of Mathematics and Physics	2009–2011Directly reported to lecturer in monitoring the progress of student learning; supporting the development of instructional materials; and deliver ideas on how to optimize instructionExpertly and patiently provided answers face-to-face to students twice a week on all kinds of courses or lessons related questions to Advanced Mathematics, Linear Algebra and Operations Research coursesRendered support to faculty in proctoring examinations, grading assignments, and encoding grades
+
+
+Education:Doctor of Philosophy in Management Science: 2015University of Science and Technology Beijing – Donlinks School of Economics and Management, Beijing, ChinaDean’s List | Merit Graduate Student | College Scholar Star | Distinguished Academic Paper Award | GPA: 3.5 Joint-PhD in Industrial Engineering: 2014 	Worcester Polytechnic Institute – School of Business, Worcester, MA, USAMaster of Science in Mathematics: 2011University of Science and Technology Beijing – School of Mathematics and Physics, Beijing, China Merit Graduate Student | The First Prize Scholarship | GPA 3.6Bachelor of Science in Applied Mathematics: 2009Xinlian College Henan Normal University – School of Applied Mathematics, Henan, China
+
+
+Skills:Data and Quantitative Analytics | Time Series Analysis | Machine Learning | Optimization | Mathematics Research and Development | Predictive Analytics | Statistics | Econometrics | Data Envelopment Analysis 
+
+
+Additional Information:Professional DevelopmentCoursera Platform (Online course)University of Michigan, Ann Arbor, MI Applied Machine Learning in Python Applied Text Mining in PythonJohns Hopkins University, Baltimore, MDData Science SpecializationRelevant Coursework: R Programming | Getting and Cleaning Data | Practical Machine LearningDeveloping Data Products | Regression Models | Statistical Inference | Reproducible ResearchExploratory Data Analysis | The Data Scientist’s ToolboxAwards and Honors2014 | 2012National Scholarship (¥30,000), Ministry of Education of the People’s Republic of ChinaTechnical AcumenPython | R | MATLAB | EViews | SPSS | SAS | Stata | Tableau | Qlik Sense | SQL | DEAPMicrosoft Office Applications (Word, PowerPoint, Excel, and Visio) | LaTeX | DEAFrontierArticles in JournalsHe, F., Xu, X., Chen, R., and Zhang, N. (2016). Sensitivity and stability analysis in DEA with bounded uncertainty, Optimization Letters, 10(4), 737–752.He, F., Xu, X., Chen, R., and Zhu, L. (2016). Interval efficiency improvement in DEA by using ideal points, Measurement, 87, 138–145.He, F., Xu, X., Wang, X., and Wenyao, W. (2013). A study on carbon emission reduction of China’s iron & steel industry using LEAP model, East China Economic Management, 27(12), 89–93.He, F., Zhang, Q., Lei, J., Fu, W., and Xu, X. (2013). Energy efficiency and productivity change of China's iron and steel industry: Accounting for undesirable outputs. Energy Policy, 54, 204–213.He, F., Zhu, L., Xu, X., and Sun, L (2013). The research on the impact of FDI source and utilization mode to the enterprise technical efficiency optimization in China, East China Economic Management, 27(09), 44–48.Xu, X. and He, F. (2012). Interval quadratic programming for the portfolio selection without short-selling, Chinese Journal of Management Science, 20(3), 57–62.Xu, X., Chen, R., He, F., and Zhu, L. (2017). Two non-radial measures of super-efficiency in DEA with data uncertainty, Journal of Intelligent and Fuzzy Systems, 32(6), 4533–4542.Xu, X., He, F., Chen, R., and Zhang,Q. (2013). Interval quadratic programming for the portfolio selection with short sales allowed.  System Engineering – Theory & Practice, 33(10), 2533–2538.
+
+Candidate Contact Information:
+
+
+JobSpider.com has chosen not to make contact information available on this page.Click "Contact Candidate" to send this candidate a response.
+
+
+
+
+

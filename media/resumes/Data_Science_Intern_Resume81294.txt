@@ -1,0 +1,56 @@
+Data Science Intern Resume
+
+
+Desired Industry: Healthcare
+SpiderID: 81294
+
+
+Desired Job Location: College Station, Texas
+Date Posted: 7/31/2018
+
+
+Type of Position: Full-Time Permanent
+Availability Date: 
+
+
+Desired Wage: 24000
+
+
+
+
+U.S. Work Authorization: Yes
+
+
+Job Level: New Grad/Entry Level
+Willing to Travel: Yes, 50-75%
+
+
+Highest Degree Attained: Masters
+Willing to Relocate: Yes
+
+
+
+
+Objective:Detail-oriented, innovative, and multifaceted professional, interested in pursuing a data science career to fully utilize knowledge and skills in machine learning, statistics, computer vision, visualization software, and data management. Equipped with strong quantitative and qualitative analytical aptitudes in gathering and utilizing data sets to develop machine learning models and deliver positive results in various business functions. Armed with strong communication abilities in coordinating team efforts to ensure timely and efficient completion of projects at hand; bilingual in English and Hindi.
+
+
+Experience:Allai, Montreal, QC, CanadaArtificial Intelligence Engineer – Computer Vision (Intern)	May 2018–Present	Lead the design and improvement of computer vision algorithms to identify particular features of car from the imageServe as one of the founding members of the 'Visionaries’ team of the company, responsible for transforming vehicle insurance industry in Canada utilizing artificial intelligenceAnalyze real-time object detections system model with complete dataset with more than 1.5 million images through the use of Amazon Web Services (AWS)Received nomination in Insurance Nexus AI Pioneer Award in Chicago, 2018 and Finalist in Benzinga Global Best InsurTech Solution in New York City, 2018Texas A&M University, College Station, TX, USAGraduate Research Assistant	Jan 2018–Present	Thoroughly assess healthcare dataset (polysomnography data), which comprise of 14 signals to predict onset of OSAProficiently utilize different machine learning algorithms, such as support vector machine (SVM), random forests, Gaussian Process Regression (GPR) in R for calculation of heart rate with PPG dataProvided effective guidance to a group of four undergraduate students to present “Manufacturing of smart sleep neckwear” at Aggie Invent (solving problems in 48 Hours) and earned 3rd position among 12 teamsInstituted a device to obtain data, analyze data, and generate useful information based on data collectedOpen Access Labs – Texas A&M University, College Station, TX, USAStudent Worker	Oct 2018–Dec 2018	Acted as part of a 12-member team in charge of administering a computer laboratory, including three remote laboratories, while monitoring inventory and handled ordering of all the laboratory supplies to ensure sufficient resourcesAcademy of Sciences of the Czech Republic, District Ostrava-City, Czech RepublicResearch Intern	May 2016–Jul 2016	Exemplified skills in executing experiments at the Institute of Geonics, Ostrava, Czech Republic with pulsating water jet on welded samples of stainless steel (AISI 304) and gathered raw data using LabVIEWClassified significant variable in analyzing residual stress with different graphs and correlation matrixDefined the value of residual stress using regression algorithms, including K-NN, CART, and natural cubic spline
+
+
+Education:Master of Science in Industrial Engineering, In Progress (Expected Date of Completion: May 2019)Texas A&M University, College Station, TX, USA   GPA: 3.6/4Relevant Coursework: Analysis and Prediction  Engineering Data Analysis  Statistical Computations and Analysis  Distribution TheoryBachelor of Technology in Mechanical Engineering, May 2017Indian Institute of Technology (IIT), Dhanbad, JH, India   GPA: 3.92/4Ranked 5230 in IIT-JEE 2013 among 1.5 million studentsRelevant Coursework: Numerical and Statistical Methods  Operations Research  Optimization Applied Mathematics  Computer Programming
+
+
+Skills:Data Scientist   Computer Vision Engineer   Data Analyst   Business AnalystDeep Learning  Predictive Analytics  Data Mining  Statistical Programming   Business Analytics  Market Analysis
+
+
+Additional Information:Academic Projects:Power Prediction Enhancement for Wind Turbine   Mar 2018–May 2018Monitoring Scheme to isolate in-control data points  Nov 2017–Dec 2017Human Activity Recognition (HAR) using Smartphone   Oct 2017–Dec 2017Customer Segmentation using Data Mining Technique   Jan 2017–Mar 2017Linear Regression Model to predict sugar level   Sep 2016–Nov 2016CertificationCertified Industrial Data Analyst  Industrial & Systems Engineering (ISEN), Texas A&M UniversityTechnical SkillsProgramming:Python (Keras, OpenCV, Tensorflow, Caffe, Numpy, pyTorch)  R  C++  SQL  MATLAB C#  CUDA  LabVIEWVisualization:Tableau  ggplot2  Power BI  MatplotlibMachine Learning:Regression  Support Vector Machines  K-NN  Regularization, Classifiers, Dimensionality Reduction  Boosting, Decision Trees, Supervised Learning  Unsupervised Learning  Cluster Analysis  Deep Learning  Computer VisionSoftware:MySQL  Git  MongoDB  Google Analytics  SAS  Minitab  SIMIO 9  QlikView  Amazon Web Services (AWS)  Hadoop  Microsoft Office Suite (Word, Excel, and PowerPoint) Visual Basic  LaTeX  SOLIDWORKS   CATIA   Spark
+
+Candidate Contact Information:
+
+
+JobSpider.com has chosen not to make contact information available on this page.Click "Contact Candidate" to send this candidate a response.
+
+
+
+
+

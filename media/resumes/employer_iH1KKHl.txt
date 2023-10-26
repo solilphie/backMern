@@ -1,0 +1,4 @@
+/*<Route path="/employer" element={<App_Employer/>}/>
+              <Route path="/employer/create/" element={<Create/>} />
+				      <Route exact path="/employer/edit/:id" component={Edit} />
+				      <Route exact path="/employer/delete/:id" component={Delete} />*/
